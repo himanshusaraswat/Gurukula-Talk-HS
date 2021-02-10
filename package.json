@@ -1,0 +1,17 @@
+{
+  "name": "gurukula-talk-hs",
+  "version": "1.0.0",
+  "description": "Simple project to understand usage of typescript, async & await",
+  "scripts": {
+    "start": "tsc && node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Himanshu Saraswat",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.1.2",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {}
+}
